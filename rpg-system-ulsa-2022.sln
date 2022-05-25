@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameplay", "Gameplay.csproj", "{26c959ad-6dfc-6dd1-dafe-99dca72b5158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5c1a786e-be54-f834-05ae-b55bdd316491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jobs", "Jobs.csproj", "{452ebf7f-bf92-1bdb-5b5c-a4f673589d02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Characters", "Characters.csproj", "{ae3b5cfa-a89c-978e-ed44-e5af937a0b87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inputs", "Inputs.csproj", "{a660f92f-f0e5-e410-9d37-f8da5616b76f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{073fde32-e6de-4d23-3ea8-8afea0f71608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26c959ad-6dfc-6dd1-dafe-99dca72b5158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26c959ad-6dfc-6dd1-dafe-99dca72b5158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5c1a786e-be54-f834-05ae-b55bdd316491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5c1a786e-be54-f834-05ae-b55bdd316491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452ebf7f-bf92-1bdb-5b5c-a4f673589d02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452ebf7f-bf92-1bdb-5b5c-a4f673589d02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ae3b5cfa-a89c-978e-ed44-e5af937a0b87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ae3b5cfa-a89c-978e-ed44-e5af937a0b87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a660f92f-f0e5-e410-9d37-f8da5616b76f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a660f92f-f0e5-e410-9d37-f8da5616b76f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073fde32-e6de-4d23-3ea8-8afea0f71608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073fde32-e6de-4d23-3ea8-8afea0f71608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
